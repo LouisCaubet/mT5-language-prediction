@@ -1,7 +1,5 @@
 # Language prediction using mT5
 
-Test task for a JetBrains internship as an ML Engineer, 2021. 
-
 ## Project description
 
 I am fine-tuning Google's mT5 pretrained model using the XNLI dataset to perform language detection on a text. 
